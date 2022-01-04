@@ -68,13 +68,13 @@
       }
 
       &:first-of-type {
-        border-radius: unset;
+        border-top-right-radius: unset;
         border-top-left-radius: .8rem;
         border-bottom-left-radius: .8rem;
       }
 
       &:last-of-type {
-        border-radius: unset;
+        border-bottom-left-radius: unset;
         border-top-right-radius: .8rem;
         border-bottom-right-radius: .8rem;
       }
