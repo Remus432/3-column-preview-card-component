@@ -17,7 +17,17 @@
   .card {
     padding: 4.8rem;
 
-    & > *:first-child {
+    &:first-of-type {
+      border-top-left-radius: .8rem;
+      border-top-right-radius: .8rem;
+    }
+
+    &:last-of-type {
+      border-bottom-left-radius: .8rem;
+      border-bottom-right-radius: .8rem;
+    }
+
+    & > *:first-child { 
       margin-bottom: 3.5rem;
     }
 

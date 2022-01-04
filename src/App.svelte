@@ -35,6 +35,10 @@
 </main>
 
 <style lang="scss">
+	.wrapper {
+		padding: 2rem;
+	}
+
 	@media screen and (min-width: 768px) {
 		.wrapper {
 			display: flex;
