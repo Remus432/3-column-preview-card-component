@@ -23,7 +23,7 @@
 	]
 </script>
 
-<main aria-level="1" class="wrapper">
+<main class="wrapper">
 	{#each cars as car, i}
 		<Card
 			carIcon={car.icon}
