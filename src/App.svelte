@@ -24,6 +24,7 @@
 </script>
 
 <main class="wrapper">
+	<h1></h1>
 	{#each cars as car, i}
 		<Card
 			carIcon={car.icon}
