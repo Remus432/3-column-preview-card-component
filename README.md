@@ -1,38 +1,41 @@
-# Frontend Mentor - NFT Preview Card Component (HTML5 + SCSS)
+# Frontend Mentor - 3 Column Preview Card Component (Svelte + SCSS)
 
 ![Design preview for the Todo app
  coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Today's challenge was building this NFT preview card component. It was an easy and fun challenge to warm up for more advanced Frontend Mentor projects :)
+Today's challenge was building this 3 Columns Preview Card Component. 
 
-[Live Site](https://nft-preview-card-component-hazel.vercel.app/)
+[Live Site](https://3-column-preview-card-component-three-rho.vercel.app/)
 
 ## Technologies Used
 
 * **HTML5**
 * **SCSS**
+* **Svelte**
 
 * **
 
 ## Development
 
-With all the frameworks, libraries, plugins, and whatnot out there we feel like everywhere we turn we have to squeeze tons of new information in our brains.
+Svelte, Svelte, and more Svelte. 
 
-Yet we forget that in frontend development, at the end of the day, HTML, CSS, and Javascript are the building blocks of all the framworks and libraries out there. Knowing these three pillars are what contributes to a successful career in frontend development.
+Sometimes I think we tend to overengineer our projects and we turn to unnecessary framworks / libraries to create small projects such as this one. If I hadn't known about Svelte, I seriously suspect this challenge would've been completed using React or Vue.
 
-That's why I love going back to these simple, yet beautiful projects. 
+There's nothing inherently wrong in that approach, but as developers, we should always try to be analytical and pragmatic in the manner we tackle projects and spend time pondering what the best approaches in terms of technologies are.
 
-There's no need for NPM modules, libraries, compilers. Just plain good ol' frontend code.
+Hence me using Svelte for this project.
 
-As a side note, I used SCSS just because I wanted to implement my BEM methodology and variables. You could easily do the same with plain CSS.
+True, even Svelte might be too much for such a small project, but given how lightweight it is and how performance-optimized it is, I decided it'd still be a good call to use Svelte in this context.
 
-So, there's not much explanation to do for this project - a few images, text, and some transitions here and there.
+Plus, given the structure of the challenge, reusability would've been one of the overarching scopes of this project - 3 columsn that are basically the same, only varying in the colors, text, and icons used.
 
-Once you spend a few months practicing your skills, you realize how far you've gotten once you manage to build robust projects using best practices in record time.
+The challenge presents itself rather simplistic - not much complexity involved in terms of layout, animations, or any other features. Although I used flex display for the card, the same effect could've been achieved using inline and block display. 
 
-Keep going - with each project you complete, you're getting closer to your dream! ;)
+This challenge is a great way to get comfortable with bringing in together HTML and CSS and building a nice, simple and efficient layout. It's also a great way to increase your confidence in your skills as developer and it'll pave the path to more amazing and complex challenges for you to build.
+
+See you in the next challenge! ;)
  
 * **
 
